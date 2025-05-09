@@ -3,9 +3,9 @@ fron FonctionDeMerde import *
 print("Veux tu jouer avec moi ?")
 choixJouerAvecMoi = int(input"\n1 - OUI\n2 - NON")
 if choixJouerAvecMoi == 1:
-    print("Génial")
+    oui()
 elif choixJouerAvecMoi == 2:
-    print("T'es méchant")
+    non()
 else:
     print("J'ai pas demande ça")
 

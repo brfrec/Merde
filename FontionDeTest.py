@@ -2,6 +2,6 @@ def oui():
     print ("Génial")
 
 def non():
-    print(" et va te faire enculer Blaireau")
+    print("Et va te faire enculer Blaireau")
 
 
