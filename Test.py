@@ -1,4 +1,4 @@
-fron FonctionDeMerde import *
+fron FonctionDeTest import *
 
 print("Veux tu jouer avec moi ?")
 choixJouerAvecMoi = int(input"\n1 - OUI\n2 - NON")
